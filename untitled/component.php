@@ -11,7 +11,7 @@ class NameComponent {
 
     public function askForName() {
         echo '<form method="POST" action="">
-                Enter your name: <input type="text" name="name">
+                Enter your name here: <input type="text" name="name">
                 <button type="submit">Submit</button>
               </form>';
 
