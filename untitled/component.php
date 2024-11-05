@@ -1,6 +1,6 @@
 <?php
 // component.php
-require 'service.php';
+use 'service.php';
 
 class NameComponent {
     private $nameService;
